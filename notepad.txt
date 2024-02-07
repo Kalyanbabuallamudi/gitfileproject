@@ -1,0 +1,5 @@
+This is a program
+int a,b
+c=a+b
+print c
+This project is about addition of two numbers
